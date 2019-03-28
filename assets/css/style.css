@@ -1,0 +1,30 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 15px;
+}
+
+button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  background-color: bisque;
+}
+
+h4 {
+  text-align: center;
+  margin-top: 15px;
+}
+
+#main-content {
+  text-align: center;
+}
